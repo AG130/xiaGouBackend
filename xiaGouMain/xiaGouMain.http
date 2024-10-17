@@ -1,0 +1,6 @@
+@xiaGouMain_HostAddress = http://localhost:5042
+
+GET {{xiaGouMain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
