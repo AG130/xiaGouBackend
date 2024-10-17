@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xiaGouMain", "xiaGouMain.csproj", "{B8C237D4-4E13-40C2-B385-982802D422DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supportlayer", "..\Supportlayer\Supportlayer.csproj", "{CBB934EE-E94F-4CED-BFBA-D2DA19A3FDA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B8C237D4-4E13-40C2-B385-982802D422DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8C237D4-4E13-40C2-B385-982802D422DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8C237D4-4E13-40C2-B385-982802D422DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB934EE-E94F-4CED-BFBA-D2DA19A3FDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB934EE-E94F-4CED-BFBA-D2DA19A3FDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB934EE-E94F-4CED-BFBA-D2DA19A3FDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB934EE-E94F-4CED-BFBA-D2DA19A3FDA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
