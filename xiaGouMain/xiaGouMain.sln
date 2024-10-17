@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xiaGouMain", "xiaGouMain.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supportlayer", "..\Supportlayer\Supportlayer.csproj", "{CBB934EE-E94F-4CED-BFBA-D2DA19A3FDA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "..\ServiceLayer\ServiceLayer.csproj", "{7642952E-680D-4D24-AD57-AF1BCE9B8E4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CBB934EE-E94F-4CED-BFBA-D2DA19A3FDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBB934EE-E94F-4CED-BFBA-D2DA19A3FDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBB934EE-E94F-4CED-BFBA-D2DA19A3FDA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7642952E-680D-4D24-AD57-AF1BCE9B8E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7642952E-680D-4D24-AD57-AF1BCE9B8E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7642952E-680D-4D24-AD57-AF1BCE9B8E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7642952E-680D-4D24-AD57-AF1BCE9B8E4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
