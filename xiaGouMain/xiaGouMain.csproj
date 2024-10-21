@@ -14,4 +14,8 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SupportLayer\SupportLayer.csproj" />
+  </ItemGroup>
+
 </Project>
