@@ -19,6 +19,8 @@ public class ConsumerPo
     public string? NickName { get; set; }
     //注册日期
     public DateTime RegisterDate { get; set; }
+    //登录日期
+    public DateTime LoginDate { get; set; }
     //角色代号
     public int RoleCode { get; set; }
     //备注
