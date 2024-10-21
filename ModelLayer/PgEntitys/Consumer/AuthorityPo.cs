@@ -1,5 +1,5 @@
 ﻿using SqlSugar;
-namespace ModelLayer.PgEntitys.Costumer;
+namespace ModelLayer.PgEntitys.Consumer;
 
 [SugarTable("Authority")]
 public class AuthorityPo
