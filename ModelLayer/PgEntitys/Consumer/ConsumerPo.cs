@@ -25,4 +25,7 @@ public class ConsumerPo
     public int RoleCode { get; set; }
     //备注
     public string? Notice { get; set; }
+    //外键/导航---
+    [Navigate(NavigateType.OneToOne,nameof(RoleCode))]
+    public RolePo RolePo { get; set; }
 }

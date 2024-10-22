@@ -1,4 +1,4 @@
-﻿using ServiceLayer.ConsumerService.Bo;
+﻿using SupportLayer.JwtUtils.Bo;
 
 namespace SupportLayer.JwtUtils;
 

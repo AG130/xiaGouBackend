@@ -1,4 +1,4 @@
-﻿namespace ServiceLayer.ConsumerService.Bo;
+﻿namespace SupportLayer.JwtUtils.Bo;
 
 /// <summary>
 /// 用于jwt生成的用户信息
